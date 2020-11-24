@@ -11,7 +11,7 @@ public class MainController {
 
     @RequestMapping("/generate")
     public ResponseEntity<UUID> generateUUID() {
-        System.out.println("Generating Random UUID");
+        System.out.println("Generating Random UUID.");
         return ResponseEntity.ok(UUID.randomUUID());
     }
 
