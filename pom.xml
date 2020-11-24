@@ -11,7 +11,7 @@
 	<groupId>uk.co.tuffdev</groupId>
 	<artifactId>uuid-generator</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>uuid-generator</name>
+	<name>uuid-generator-1</name>
 	<description>Create a UUID</description>
 
 	<properties>
